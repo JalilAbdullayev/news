@@ -1,0 +1,7 @@
+
+nphp:S115"ZRename this constant "host" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(ÿ§Œ
+pphp:S115"\Rename this constant "dbname" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(–©÷‚
+nphp:S115"ZRename this constant "user" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(ßÏÌå
+nphp:S115	"ZRename this constant "pass" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(‘œ ¬
+nphp:S115
+"ZRename this constant "port" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(û‹î®

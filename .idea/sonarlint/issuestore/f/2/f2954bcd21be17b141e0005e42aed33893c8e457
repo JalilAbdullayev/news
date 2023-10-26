@@ -1,0 +1,11 @@
+
+kphp:S103%"KSplit this 140 characters long line (which is greater than 120 authorized).(ëÚµ¢üÿÿÿÿ8†é³¯1
+fphp:S103."KSplit this 149 characters long line (which is greater than 120 authorized).(è¨Ï8‘†é³¯1
+kphp:S1037"KSplit this 138 characters long line (which is greater than 120 authorized).(Ñ¤°ÿÿÿÿÿ8’†é³¯1
+kphp:S103@"KSplit this 141 characters long line (which is greater than 120 authorized).(±á””üÿÿÿÿ8“†é³¯1
+kphp:S103I"KSplit this 144 characters long line (which is greater than 120 authorized).(»”øŒûÿÿÿÿ8”†é³¯1
+kphp:S103R"KSplit this 138 characters long line (which is greater than 120 authorized).(¼ú«æúÿÿÿÿ8•†é³¯1
+r	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(İ¼‡²şÿÿÿÿ8–†é³¯1
+r	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(®´¨‰ùÿÿÿÿ8—†é³¯1
+m	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(¸º™8™†é³¯1
+s	php:S4833€"QReplace "require_once" with namespace import mechanism through the "use" keyword.(ÑÒ…éùÿÿÿÿ8š†é³¯1

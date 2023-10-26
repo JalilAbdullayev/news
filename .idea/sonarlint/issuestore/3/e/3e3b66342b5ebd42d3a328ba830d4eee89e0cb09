@@ -1,0 +1,6 @@
+
+dphp:S103"KSplit this 123 characters long line (which is greater than 120 authorized).(Çœïæüÿÿÿÿ
+iphp:S100"PRename function "UserEnter" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ãÖôùÿÿÿÿ
+ephp:S100'"LRename function "Check" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ú½ª»øÿÿÿÿ
+jphp:S100/"QRename function "CheckEmail" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(©ŒóÑúÿÿÿÿ
+lphp:S1007"SRename function "CheckSession" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(œÆÒ­øÿÿÿÿ

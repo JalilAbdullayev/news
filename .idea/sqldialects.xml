@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/../lmsedu/admin/settings/class/nizamlamalar.php" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/admin/settings/class/nizamlamalar.php" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/admin/settings/code/front/front.php" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/contactform.php" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/filter.php" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/news-details.php" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/news.php" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/search.php" dialect="MySQL" />
+    <file url="PROJECT" dialect="MySQL" />
+  </component>
+</project>
